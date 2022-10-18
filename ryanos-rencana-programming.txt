@@ -2,7 +2,9 @@ RENCANA BELAJAR PEMMROGRAMAN
 -Javascript
   *ES6
   *framework
--struktur data dasar
+   ^angular
+   ^react
 -php
+ ^laravel
 -interview
 -blog
