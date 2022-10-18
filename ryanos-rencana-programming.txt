@@ -3,6 +3,7 @@ RENCANA BELAJAR PEMMROGRAMAN
   *ES6
   *framework
    ^vue
+   ^react
 -struktur data dasar
 -php
  ^laravel
