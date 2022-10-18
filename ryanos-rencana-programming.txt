@@ -1,0 +1,7 @@
+RENCANA BELAJAR PEMMROGRAMAN
+-Javascript
+  *ES6
+  *framework
+-nodejs
+-reactjs
+-sql
