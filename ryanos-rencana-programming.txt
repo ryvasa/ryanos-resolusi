@@ -1,0 +1,5 @@
+RENCANA BELAJAR PEMMROGRAMAN
+-Javascript
+-nodejs
+-reactjs
+-sql
