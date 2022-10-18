@@ -3,6 +3,6 @@ RENCANA BELAJAR PEMMROGRAMAN
   *ES6
   *framework
 -struktur data dasar
--nodejs
--reactjs
--sql
+-php
+-interview
+-blog
